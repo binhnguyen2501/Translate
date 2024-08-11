@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "dev": "yarn node translate.js"
+  },
+  "dependencies": {
+    "@google-cloud/translate": "^8.3.0"
+  }
+}
